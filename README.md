@@ -81,9 +81,9 @@ The detection process follows these steps:
 When you run the script, it will detect objects in the images or the webcam camera and show results like this:
 
 
-![YOLOv3 Detection Output](detection_1.png)
+![YOLOv3 Detection Output](assets/detection_1.png)
 
-![YOLOv3 Detection Output](detection_2.png)
+![YOLOv3 Detection Output](assets/detection_2.png)
 
 
 #### Notes
